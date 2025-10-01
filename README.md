@@ -1,5 +1,10 @@
 # 📊 Social Media Campaign ROI Analysis (Excel Project)
 
+
+
+![Dashboard ROI](dashboard_roi.png)
+
+
 ## 📌 Project Overview
 
 This project analyzes the **Return on Investment (ROI)** of social media marketing campaigns using **Excel Pivot Tables, Pivot Charts, and Dashboards**.
